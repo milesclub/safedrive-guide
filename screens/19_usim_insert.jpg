@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 560">
+<rect width="480" height="560" fill="#F4F6F4"/>
+<rect x="150" y="70" width="180" height="360" rx="34" fill="#fff" stroke="#111813" stroke-width="7"/>
+<rect x="168" y="96" width="144" height="300" rx="12" fill="#EDF3D0"/>
+<rect x="205" y="404" width="70" height="12" rx="6" fill="#C7CEC8"/>
+<rect x="120" y="150" width="52" height="40" rx="6" fill="#fff" stroke="#111813" stroke-width="6"/>
+<rect x="60" y="150" width="60" height="40" rx="6" fill="#DEFF00" stroke="#111813" stroke-width="6"/>
+<rect x="72" y="158" width="22" height="24" rx="3" fill="#F7A72C" stroke="#111813" stroke-width="3"/>
+<path d="M124 210 L150 210" stroke="#111813" stroke-width="0"/>
+<g stroke="#111813" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M175 235 L235 235"/><path d="M215 218 L238 235 L215 252"/></g>
+<text x="240" y="490" text-anchor="middle" font-family="Pretendard,Malgun Gothic,sans-serif" font-size="30" font-weight="800" fill="#111813">전원 끄고 유심 끼우기</text>
+<text x="240" y="524" text-anchor="middle" font-family="Pretendard,Malgun Gothic,sans-serif" font-size="21" font-weight="600" fill="#727A75">금색 칩이 아래로 가게 넣어요</text>
+</svg>

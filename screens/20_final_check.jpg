@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 420">
+<rect width="480" height="420" fill="#F4F6F4"/>
+<rect x="70" y="60" width="340" height="150" rx="26" fill="#fff" stroke="#111813" stroke-width="7"/>
+<text x="104" y="150" font-family="Pretendard,Malgun Gothic,sans-serif" font-size="46" font-weight="900" fill="#111813">KT</text>
+<g fill="#111813"><rect x="300" y="120" width="9" height="14" rx="2"/><rect x="315" y="112" width="9" height="22" rx="2"/><rect x="330" y="104" width="9" height="30" rx="2"/><rect x="345" y="96" width="9" height="38" rx="2"/></g>
+<rect x="360" y="104" width="30" height="16" rx="4" fill="#111813"/>
+<circle cx="125" cy="135" r="52" fill="none" stroke="#DEFF00" stroke-width="9"/>
+<text x="240" y="300" text-anchor="middle" font-family="Pretendard,Malgun Gothic,sans-serif" font-size="30" font-weight="800" fill="#111813">화면 맨 위에 ‘KT’가 보이면</text>
+<text x="240" y="342" text-anchor="middle" font-family="Pretendard,Malgun Gothic,sans-serif" font-size="30" font-weight="800" fill="#111813">개통이 끝난 거예요</text>
+</svg>
